@@ -1,3 +1,3 @@
 # MERN-interview-prep
 
-{% include_relative node/basic.md %}
+{% include_relative Node/basic.md %}
